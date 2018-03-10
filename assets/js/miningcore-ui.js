@@ -1,6 +1,6 @@
 // config
-var API = 'http://localhost:4000/api/'; // API address
-var defaultPool = ''; // Default Pool ID
+var API = 'http://pool2.hashthat.net/api/'; // API address
+var defaultPool = 'btcp1'; // Default Pool ID
 
 var currentPool = defaultPool;
 
