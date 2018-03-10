@@ -1,5 +1,5 @@
 // config
-var API = 'http://pool2.hashthat.net/api/'; // API address
+var API = 'https://pool2.hashthat.net/api/'; // API address
 var defaultPool = 'btcp1'; // Default Pool ID
 
 var currentPool = defaultPool;
